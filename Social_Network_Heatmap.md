@@ -21,11 +21,11 @@ Network Types - "Mode"
 
 Variable Types - "Property"
 	INFO - Information
-		How often is a person relied on for information from others?
+		How often is a person relied on for information from others?  
 	CONV - Conversation
-		How easy is it to have informal conversations with a person?
+		How easy is it to have informal conversations with a person?  
 	INNO - Innovation
-		Is a person regarded as a source of new and creative ideas?
+		Is a person regarded as a source of new and creative ideas?  
 	PROT - Protection
 		How likely is a person to defend another who is being treated unfairly?
 	COLA - Collaboration
