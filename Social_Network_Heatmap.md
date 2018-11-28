@@ -17,8 +17,8 @@ Network Types - "Mode"
     	
 	Authority Network
 	
-
-
+	
+`
 Variable Types - "Property"  
 	INFO - Information:
 		How often is a person relied on for information from others?  
@@ -47,7 +47,7 @@ Variable Types - "Property"
 	LEAD - Leadership:
 		Is this person likely to be viewed as a good leader, regardless of authority?  
 
-
+`
 
 
 
