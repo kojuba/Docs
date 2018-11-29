@@ -21,27 +21,31 @@ If you have any questions, email: questions@kojuba.com
 - Search for a person using the search box, with first or last name.
 - Drag nodes around to better understand the network.
 
+### Interpreting the HeatMap Colors
+The colors of the heatmap represents the degree to which a person exhibits a characteristic. This is based on the "Relative-Refference Score" that an employee has for a given variable or dimension.
+
+For example, when "INFO" is selected, the large, bright-GREEN circles represent the people who are HIGHLY referenced as being sources of information by other people in the network. In contrast, if you see a large RED circle, this represents a significant absense of refference for this dimension. It would mean that while a person is very integrated into the company, they are not relied opon for information. It is likely that they contribute to the company in other ways. 
+
+This highlights an important feature of Relative-Reference Scores. Some people are VERY integrated in the organization and others barely have a presense. This is mostly governed by (1) an employee's time in the company, (2) a person's level of authority, and (3) how extroverted or social a person is. If we want to understand the unique characteristics of individual employees in a way where we can compare them to each other, we must extract the effect of overall social integration.
+
+
+These scores are 
+
+
+
+Relative-Reference Values
+
+
 ### Settings
-There are 2 different networks types that can be visualized and 13 different attributes that can be displayed over the network. The different variables are described in below.
-
-
-
-
-The default settings use the "Proximity Network" as the mode and the "Information" attribute as the nodal property. There are two different network configurations that can be displayed.
-
-
-
-### Interpreting the Network: 
-
-### Interpreting the HeatMap: Relative-Reference Values
-
-
+There are 2 different networks types that can be visualized and 13 different attributes that can be displayed over the network. The different variables are described in below.  
+  
+The default settings use the "Proximity Network" as the mode and the "Information" attribute as the nodal property. There are two different network configurations that can be displayed.  
 
 
 ### Network Types (Mode Drop-Down)
 ```
 PROXIMITY NETWORK
-    This visualization is useful when analyzing TEAMS.
+    This visualization is great for analyzing the TEAMS of a company.
     Displays the links between people where there is strong social proximity.
     This means that 2 people are connected if they interact with eachother often.
     Possible Questions:
@@ -55,7 +59,7 @@ PROXIMITY NETWORK
 	Where are those people located?
     
 AUTHORITY NETWORK
-    This visualization is useful when analyzing the LEADERS.
+    This visualization is great for analyzing the LEADERS of a company. 
     Displays the links between people where there is a strong authority relationship.
     This requires high proximity between people AND a major difference in authority.
     These are the estimated direct-reporting relationships.
@@ -85,5 +89,7 @@ POSI - Positivity:    Does this person contribute to the positive experience of 
 NEGA - Negativity:    Does this person contribute to the negative experience of others in the company?  
 LEAD - Leadership:    Is this person likely to be viewed as a good leader, regardless of authority?  
 ```
-
-
+  
+  
+  
+[END]
