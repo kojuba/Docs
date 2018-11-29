@@ -21,20 +21,20 @@ If you have any questions, email: questions@kojuba.com
 - Search for a person using the search box, with first or last name.
 - Drag nodes around to better understand the network.
 
-### Interpreting the HeatMap Colors
-The colors of the heatmap represents the degree to which a person exhibits a characteristic. This is based on the "Relative-Refference Score" that an employee has for a given variable or dimension.
-
-For example, when "INFO" is selected, the large, bright-GREEN circles represent the people who are HIGHLY referenced as being sources of information by other people in the network. In contrast, if you see a large RED circle, this represents a significant absense of refference for this dimension. It would mean that while a person is very integrated into the company, they are not relied opon for information. It is likely that they contribute to the company in other ways. 
-
-This highlights an important feature of Relative-Reference Scores. Some people are VERY integrated in the organization and others barely have a presense. This is mostly governed by (1) an employee's time in the company, (2) a person's level of authority, and (3) how extroverted or social a person is. If we want to understand the unique characteristics of individual employees in a way where we can compare them to each other, we must extract the effect of overall social integration.
-
-
-These scores are 
-
-
-
-Relative-Reference Values
-
+### Interpreting HeatMap Colors & Values
+The colors of the heatmap represents the degree to which a person exhibits a characteristic. This is based on the "Relative-Refference Score" that an employee has for a given variable or dimension. For example, when "INFO" is selected, the large, bright-GREEN circles represent the people who are HIGHLY referenced as being sources of information by other people in the network. 
+  
+In contrast, if you see a large RED circle, this represents a significant absense of refference for this dimension. It would mean that while a person is very integrated into the company, they are not relied opon for information. It is likely that they contribute to the company in other ways. 
+  
+This highlights an important point. By nature, some people will be VERY integrated in an organization and others may barely have a presense. This difference is influenced by at least 5 factors:
+(1) an employee's time in the company
+(2) how may hours a person works per week
+(3) a person's level of authority
+(4) the size of the team they are asigned to
+(5) how extroverted a person is
+  
+If we want to understand the unique characteristics of individual employees in a way where we can compare them to each other, (and not penalize a person for factors outside thier control), we must extract the effect of overall social integration from the scoring system. Therefore, Relative Refference Scores can be viewed as the difference between a person's expected degree of reference and actual degree of reference for a particular variable.
+  
 
 ### Settings
 There are 2 different networks types that can be visualized and 13 different attributes that can be displayed over the network. The different variables are described in below.  
