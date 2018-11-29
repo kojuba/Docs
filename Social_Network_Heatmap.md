@@ -1,15 +1,15 @@
 # Social Network Heatmap
-
+  
 The purpose of the social network heatmap is to:
 1. Demonstrate visually how employees are connected to one another in the organizational network.
 2. Display the unique characteristics of employees, as derived from the orginizational network.
   
 This visualization and accompanying data-sets are derived solely from Mod1 of the Kojuba Workplace Survey. This means that the insights demonstrated here only required 15 min of employee time.  
-
+  
 ### Application Login
-To login, go here: https://demo1.kojuba.com/
-If you have any questions, email: questions@kojuba.com
-
+To login, go here: https://demo1.kojuba.com/  
+If you have any questions, email: questions@kojuba.com  
+  
 ### Performance Tips
 1. Chrome is the preferred browser for Kojuba apps. Other browsers may produce a different experience. 
 2. The smoothness of the visualization will depend on the RAM your computer has available. So if you have a thousand tabs open in Chrome, it will hurt the performance of the visualization.
