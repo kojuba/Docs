@@ -38,17 +38,38 @@ The default settings use the "Proximity Network" as the mode and the "Informatio
 
 
 
-### Network Types - "Mode"
+### Network Types (Mode Drop-Down)
 ```
-Proximity Network
-    	Links are made between two people if 
-
-   	
-	Authority Network
+PROXIMITY NETWORK
+    This visualization is useful when analyzing TEAMS.
+    Displays the links between people where there is strong social proximity.
+    This means that 2 people are connected if they interact with eachother often.
+    Possible Questions:
+        What teams does your company consist of? 
+        Who are the central members of these teams?
+        Who are the people that connect teams?
+        How are teams connected to one another or separated from one another? 
+	Who are the centers of information within a team?
+	Who are the centers of positivity within a team?
+	Who are the "hidden assets" (HIDD) of an organization?
+	Where are those people located?
+    
+AUTHORITY NETWORK
+    This visualization is useful when analyzing the LEADERS.
+    Displays the links between people where there is a strong authority relationship.
+    This requires high proximity between people AND a major difference in authority.
+    These are the estimated direct-reporting relationships.
+    Possible Questions: 
+    	How many people report to each leader?
+	Does informal leadership (LEAD) align whith the formal authority structure?
+	Among those with minimal authority, who is seen as a potential good leader?  
+	Are certain leaders known for thier positivity and some for thier negativity?
+	Which leaders are "informational leaders" and which are "relational leaders"? 
+	Should certain leaders be more open to recieving feedback from others?
 ```	
 
 
-### Variable Types - "Property":  
+### Variable Types (Property Drop-Down)  
 ```
 INFO - Information:   How often is a person relied on for information from others?  
 CONV - Conversation:  How easy is it to have informal conversations with a person?  
