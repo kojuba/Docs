@@ -1,12 +1,39 @@
 # Social Network Heatmap
 
+The purpose of the social network heatmap is to:
+1. Demonstrate visually how employees are connected to one another in the organizational network.
+2. Display the unique characteristics of employees, as derived from the orginizational network.
 
-Purpose:
+This visualization and accompanying data-sets are derived solely from Mod1 of the Kojuba Workplace Survey. This means that the insights demonstrated here only required 15 min of employee time.
+
+###Application Login
+To login, go here: https://demo1.kojuba.com/
+If you have any questions, email: questions@kojuba.com
+
+###Performance Tips
+1. Chrome is the preferred browser for Kojuba apps. Other browsers may produce a different experience. 
+2. The smoothness of the visualization will depend on the RAM your computer has available. So if you have a thousand tabs open in Chrome, it will hurt the performance of the visualization.
+2. Your browser window may need to be increased or decreased for optimal experience. On PCs, this is done using Ctrl+"+" or Ctrl+"-". On Macs, use Cmd+"+" or Cmd+"-" to tune the size.
+
+###Functionality / Features
+- Hover over a node to see the employee's name. (Demo network is simulated with fake names.)
+- Pan and Zoom the frame to focus on certain parts of the orginizational network.
+- 
+
+###Settings
+There are 2 different networks types that can be visualized and 13 different attributes that can be displayed over the network. The different variables are described in below.
 
 
 
-Interpretation:
-	
+
+The default settings use the "Proximity Network" as the mode and the "Information" attribute as the nodal property. There are two different network configurations that can be displayed.
+
+
+
+###Interpreting the Network: 
+
+###Interpreting the HeatMap: Relative-Reference Values
+
 
 
 
@@ -18,8 +45,7 @@ Network Types - "Mode"
 	Authority Network
 	
 	
-Variable Types - "Property"  
-
+###Variable Types - "Property":  
 ```
 INFO - Information:   How often is a person relied on for information from others?  
 CONV - Conversation:  How easy is it to have informal conversations with a person?  
