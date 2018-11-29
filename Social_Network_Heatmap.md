@@ -26,22 +26,18 @@ The colors of the heatmap represents the degree to which a person exhibits a cha
   
 In contrast, if you see a large RED circle, this represents a significant absense of refference for this dimension. It would mean that while a person is very integrated into the company, they are not relied opon for information. It is likely that they contribute to the company in other ways. 
   
-This highlights an important point. By nature, some people will be VERY integrated in an organization and others may barely have a presense. This difference is influenced by at least 5 factors:
-(1) an employee's time in the company
-(2) how may hours a person works per week
-(3) a person's level of authority
-(4) the size of the team they are asigned to
-(5) how extroverted a person is
+This highlights an important point. By nature, some people will be VERY integrated in an organization and others may barely have a presense. This difference is influenced by at least 5 factors:  
+1. an employee's time in the company
+1. how may hours a person works per week
+1. a person's level of authority
+1. the size of the team they are asigned to
+1. how extroverted a person is
   
 If we want to understand the unique characteristics of individual employees in a way where we can compare them to each other, (and not penalize a person for factors outside thier control), we must extract the effect of overall social integration from the scoring system. Therefore, Relative Refference Scores can be viewed as the difference between a person's expected degree of reference and actual degree of reference for a particular variable.
   
-
 ### Settings
-There are 2 different networks types that can be visualized and 13 different attributes that can be displayed over the network. The different variables are described in below.  
+The default settings use the "Proximity Network" as the mode and the "Information" attribute as the nodal property. There are 2 different networks types that can be visualized and 13 different attributes that can be displayed over the network. The different variables are described in below.  
   
-The default settings use the "Proximity Network" as the mode and the "Information" attribute as the nodal property. There are two different network configurations that can be displayed.  
-
-
 ### Network Types (Mode Drop-Down)
 ```
 PROXIMITY NETWORK
