@@ -3,8 +3,8 @@
 The purpose of the social network heatmap is to:
 1. Demonstrate visually how employees are connected to one another in the organizational network.
 2. Display the unique characteristics of employees, as derived from the orginizational network.
-
-This visualization and accompanying data-sets are derived solely from Mod1 of the Kojuba Workplace Survey. This means that the insights demonstrated here only required 15 min of employee time.
+  
+This visualization and accompanying data-sets are derived solely from Mod1 of the Kojuba Workplace Survey. This means that the insights demonstrated here only required 15 min of employee time.  
 
 ### Application Login
 To login, go here: https://demo1.kojuba.com/
@@ -15,10 +15,11 @@ If you have any questions, email: questions@kojuba.com
 2. The smoothness of the visualization will depend on the RAM your computer has available. So if you have a thousand tabs open in Chrome, it will hurt the performance of the visualization.
 2. Your browser window may need to be increased or decreased for optimal experience. On PCs, this is done using Ctrl+"+" or Ctrl+"-". On Macs, use Cmd+"+" or Cmd+"-" to tune the size.
 
-###Functionality / Features
+### Functionality / Features
 - Hover over a node to see the employee's name. (Demo network is simulated with fake names.)
 - Pan and Zoom the frame to focus on certain parts of the orginizational network.
-- 
+- Search for a person using the search box, with first or last name.
+- Drag nodes around to better understand the network.
 
 ### Settings
 There are 2 different networks types that can be visualized and 13 different attributes that can be displayed over the network. The different variables are described in below.
@@ -37,14 +38,16 @@ The default settings use the "Proximity Network" as the mode and the "Informatio
 
 
 
-Network Types - "Mode"
-    I. Proximity Network
-    	(1) Links are made between two people if 
+### Network Types - "Mode"
+```
+Proximity Network
+    	Links are made between two people if 
 
-    	
+   	
 	Authority Network
-	
-	
+```	
+
+
 ### Variable Types - "Property":  
 ```
 INFO - Information:   How often is a person relied on for information from others?  
@@ -61,11 +64,5 @@ POSI - Positivity:    Does this person contribute to the positive experience of 
 NEGA - Negativity:    Does this person contribute to the negative experience of others in the company?  
 LEAD - Leadership:    Is this person likely to be viewed as a good leader, regardless of authority?  
 ```
-
-
-
-
-
-
 
 
