@@ -6,11 +6,11 @@ The purpose of the social network heatmap is to:
 
 This visualization and accompanying data-sets are derived solely from Mod1 of the Kojuba Workplace Survey. This means that the insights demonstrated here only required 15 min of employee time.
 
-###Application Login
+### Application Login
 To login, go here: https://demo1.kojuba.com/
 If you have any questions, email: questions@kojuba.com
 
-###Performance Tips
+### Performance Tips
 1. Chrome is the preferred browser for Kojuba apps. Other browsers may produce a different experience. 
 2. The smoothness of the visualization will depend on the RAM your computer has available. So if you have a thousand tabs open in Chrome, it will hurt the performance of the visualization.
 2. Your browser window may need to be increased or decreased for optimal experience. On PCs, this is done using Ctrl+"+" or Ctrl+"-". On Macs, use Cmd+"+" or Cmd+"-" to tune the size.
@@ -20,7 +20,7 @@ If you have any questions, email: questions@kojuba.com
 - Pan and Zoom the frame to focus on certain parts of the orginizational network.
 - 
 
-###Settings
+### Settings
 There are 2 different networks types that can be visualized and 13 different attributes that can be displayed over the network. The different variables are described in below.
 
 
@@ -30,9 +30,9 @@ The default settings use the "Proximity Network" as the mode and the "Informatio
 
 
 
-###Interpreting the Network: 
+### Interpreting the Network: 
 
-###Interpreting the HeatMap: Relative-Reference Values
+### Interpreting the HeatMap: Relative-Reference Values
 
 
 
@@ -45,7 +45,7 @@ Network Types - "Mode"
 	Authority Network
 	
 	
-###Variable Types - "Property":  
+### Variable Types - "Property":  
 ```
 INFO - Information:   How often is a person relied on for information from others?  
 CONV - Conversation:  How easy is it to have informal conversations with a person?  
