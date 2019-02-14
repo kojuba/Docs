@@ -1,7 +1,7 @@
 
-###Question Content Per Survey Module
+## Question Content Per Survey Module
 
-MODULE 1 - Network Discovery
+### MODULE 1 - Network Discovery
 (Fixed Order)
 ```
 1  Who do you interact with most often while you are at work? (Rank-order your responses from greatest interaction to least.)
@@ -21,7 +21,7 @@ MODULE 1 - Network Discovery
 15 Who do you think of as being a good leader, or as having good leadership potential?
 ```
 
-MODULE 2 - Employee Experience
+### MODULE 2 - Employee Experience
 (Order of Statements is Randomized Per Employee)
 ```
 1	I feel integrated and accepted by all the people in my workplace.
@@ -46,17 +46,20 @@ MODULE 2 - Employee Experience
 20	I feel like my work is meaningful and that it makes a difference.
 ``` 
 
-MODULE 3 - Personal Reviews
+### MODULE 3 - Personal Reviews
 (Order of Reviews is Randomized Per Employee)
 (Order of Descriptors is Randomized Per Review)
 ```
-Each employee conducts 1 review on themselves, and then 
-   1 review on up to 6 of thier fellow employees. 
+Each employee conducts one review on themselves, and then 
+    one review on up to 6 other employees in the company.
+   
+The list of employees that are reviewed by each employee are intelligently
+    derived from the responses collected in Module 1, Network Discovery.
 
 Total of 144 descriptors that are linguistically balanced between
-   Positive, Negative, and Neutral words.  
+    Positive, Negative, and Neutral words.  
 ```
 
-
+[END]
 
 
